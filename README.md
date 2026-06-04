@@ -1,16 +1,13 @@
-## Hi there 👋
+# Eugine Dsylva
 
-<!--
-**euginevd/euginevd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Security Architect based in Sydney, designing and building cloud security programs across AWS and Azure — hands-on from architecture through delivery.
 
-Here are some ideas to get you started:
+Current focus areas: CNAPP operationalisation, AI Security Posture Management, multi-cloud guardrails at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+18+ years in security across enterprise, government, and regulated environments in Australia, UAE, and Qatar.
+
+**Certifications:** CISSP · CISA · AWS Security Specialty · Azure Security Engineer · AWS SA Pro · TOGAF
+
+---
+
+🌐 [euginevd.com](https://www.euginevd.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/euginevd) &nbsp;|&nbsp; 📬 euginevd@gmail.com
